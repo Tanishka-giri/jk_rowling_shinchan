@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>des you fav-3</title>
+    <link rel="stylesheet" href="">
+</head>
+
+<body>
+    <script src=""></script>
+
+    <h1 id="mi">My Inspirations</h1>
+    
+    <span>
+        <a href="https://www.jkrowling.com/" target="_blank">
+            <img id="picture" src="http://www.jkrowling.com/wp-content/uploads/2019/01/JKRowling_Shot_D_029_V3_lower-300x170.jpg">
+        </a>
+    </span>
+    
+    <span>
+        <a href="https://tv-asahicontents.com/en/program/shinchan" target="_blank">
+            <img id="shinchan" src="https://i.pinimg.com/originals/57/53/74/575374bf227f9845685a2950dd976f88.png">
+        </a>
+    </span>
+
+
+
+
+
+
+</body>
+
+</html>

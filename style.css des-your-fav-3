@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-color: coral;
+}
+
+img {
+    transition: transform .2s;
+    border-style: solid;
+    padding: 5px;
+    border-radius: 80px;
+    border-color: #4B0082;
+    height: 500px;
+    width: 500px;
+}
+
+img:hover {
+    transform: scale(0.9);
+}
+
+#mi {
+    font-size: 20px;
+    font-family: cursive;
+}
